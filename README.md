@@ -1,5 +1,5 @@
 #  :chipmunk: Welcome stranger!!
---------------
+
 ### I'm **Francescoli Castillo**, a Software Engineer basen in Germany :de:
 
 Originally from Mexico :cowboy_hat_face::cactus: I have an affinity for IT, UI, UX and Cyber Security :computer:. 
@@ -10,16 +10,14 @@ Here you will find the repositories of my personal projects for my portfolio, as
 <br>
 
 # Connect with me
-------------
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
+![Mail](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <br>
 
 # :computer: Skills and Experience
--------------
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,7 +46,6 @@ Here you will find the repositories of my personal projects for my portfolio, as
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolicastillo&layout=compact" width="50%"  />
 
 # IDEs/Editors
---------------
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
