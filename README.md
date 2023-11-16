@@ -1,4 +1,4 @@
-#  :chipmunk: Welcome stranger!!
+#  :chipmunk: Welcome stranger!! :moyai:
 
 ### I'm **Francescoli Castillo**, a Software Engineer basen in Germany :de:
 
@@ -9,12 +9,15 @@ Here you will find the repositories of my personal projects for my portfolio, as
 
 <br>
 
-# Connect with me
+# :electric_plug: Connect with me
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Mail](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+[![Mail](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][2]
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)][3]
 
+[1]: https://de.linkedin.com/in/francescoli-hern%C3%A1ndez-castillo
+[2]: mailto:frank_hdz16@hotmail.com
+[3]: https://github.com/francescolicastillo
 <br>
 
 # :computer: Skills and Experience
@@ -45,7 +48,7 @@ Here you will find the repositories of my personal projects for my portfolio, as
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolicastillo&layout=compact" width="50%"  />
 
-# IDEs/Editors
+# :keyboard: IDEs/Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
