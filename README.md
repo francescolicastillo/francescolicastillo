@@ -46,7 +46,7 @@ Here you will find the repositories of my personal projects for my portfolio, as
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolicastillo" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolicastillo&layout=compact" width="50%" />
 
 # :keyboard: IDEs/Editors
 
